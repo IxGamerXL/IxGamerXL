@@ -13,6 +13,7 @@ public class charData {
 	private lastMsg = "";
 	
 	public static void pm(String msg) {
+		lastMsg = msg;
 		System.out.println("-> " + name + ": " + msg);
 	}
 	
