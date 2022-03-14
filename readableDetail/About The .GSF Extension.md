@@ -11,6 +11,8 @@ It consists of the current languages GSF has learned:
 - VBS *(Basic Dialogs && Windows Programming)*
 - HTML *(Framework)*
 
+The `.GSF` extension also has a naive programming language which is always loaded in first. More on that in **naive.gsf**
+
 The `.GSF` extension cannot be used by other files or programs unless authorized by the creator of GSF.
 
 ## Who's the creator (lore-wise)?
